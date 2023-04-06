@@ -1,0 +1,15 @@
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\Clase-01.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\Clase-01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\Clase-01.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\Clase-01.AssemblyInfo.cs
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\Clase-01.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Clase-01\bin\Debug\net7.0\Clase-01.exe
+C:\Users\camil\source\repos\Clase-01\bin\Debug\net7.0\Clase-01.deps.json
+C:\Users\camil\source\repos\Clase-01\bin\Debug\net7.0\Clase-01.runtimeconfig.json
+C:\Users\camil\source\repos\Clase-01\bin\Debug\net7.0\Clase-01.dll
+C:\Users\camil\source\repos\Clase-01\bin\Debug\net7.0\Clase-01.pdb
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\Clase-01.dll
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\refint\Clase-01.dll
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\Clase-01.pdb
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\Clase-01.genruntimeconfig.cache
+C:\Users\camil\source\repos\Clase-01\obj\Debug\net7.0\ref\Clase-01.dll
