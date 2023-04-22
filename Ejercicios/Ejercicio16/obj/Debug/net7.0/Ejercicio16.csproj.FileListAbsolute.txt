@@ -1,0 +1,15 @@
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\bin\Debug\net7.0\Ejercicio16.exe
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\bin\Debug\net7.0\Ejercicio16.deps.json
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\bin\Debug\net7.0\Ejercicio16.runtimeconfig.json
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\bin\Debug\net7.0\Ejercicio16.dll
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\bin\Debug\net7.0\Ejercicio16.pdb
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\Ejercicio16.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\Ejercicio16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\Ejercicio16.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\Ejercicio16.AssemblyInfo.cs
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\Ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\Ejercicio16.dll
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\refint\Ejercicio16.dll
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\Ejercicio16.pdb
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\Ejercicio16.genruntimeconfig.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio16\obj\Debug\net7.0\ref\Ejercicio16.dll
