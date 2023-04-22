@@ -1,0 +1,15 @@
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\bin\Debug\net7.0\Ejercio4.exe
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\bin\Debug\net7.0\Ejercio4.deps.json
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\bin\Debug\net7.0\Ejercio4.runtimeconfig.json
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\bin\Debug\net7.0\Ejercio4.dll
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\bin\Debug\net7.0\Ejercio4.pdb
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\Ejercio4.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\Ejercio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\Ejercio4.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\Ejercio4.AssemblyInfo.cs
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\Ejercio4.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\Ejercio4.dll
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\refint\Ejercio4.dll
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\Ejercio4.pdb
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\Ejercio4.genruntimeconfig.cache
+C:\Users\camil\source\repos\Ejercicio Cotizador\Ejercio4\obj\Debug\net7.0\ref\Ejercio4.dll
