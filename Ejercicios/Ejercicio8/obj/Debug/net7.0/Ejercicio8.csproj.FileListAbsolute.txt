@@ -1,0 +1,15 @@
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\bin\Debug\net7.0\Ejercicio8.exe
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\bin\Debug\net7.0\Ejercicio8.deps.json
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\bin\Debug\net7.0\Ejercicio8.runtimeconfig.json
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\bin\Debug\net7.0\Ejercicio8.dll
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\bin\Debug\net7.0\Ejercicio8.pdb
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\Ejercicio8.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\Ejercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\Ejercicio8.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\Ejercicio8.AssemblyInfo.cs
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\Ejercicio8.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\Ejercicio8.dll
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\refint\Ejercicio8.dll
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\Ejercicio8.pdb
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\Ejercicio8.genruntimeconfig.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio8\obj\Debug\net7.0\ref\Ejercicio8.dll
