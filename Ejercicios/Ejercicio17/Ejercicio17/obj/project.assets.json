@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Ejercicio17\\Ejercicio17.csproj",
+      "projectUniqueName": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\Ejercicios\\Ejercicio17\\Ejercicio17\\Ejercicio17.csproj",
       "projectName": "Ejercicio17",
-      "projectPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Ejercicio17\\Ejercicio17.csproj",
+      "projectPath": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\Ejercicios\\Ejercicio17\\Ejercicio17\\Ejercicio17.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Ejercicio17\\obj\\",
+      "outputPath": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\Ejercicios\\Ejercicio17\\Ejercicio17\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Entidades\\Entidades.csproj"
+            "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\Ejercicios\\Ejercicio17\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\Ejercicios\\Ejercicio17\\Entidades\\Entidades.csproj"
             }
           }
         }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\Ejercicios\\Ejercicio17\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\Ejercicios\\Ejercicio17\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\Ejercicios\\Ejercicio17\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
