@@ -1,0 +1,12 @@
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\obj\Debug\net7.0\Billetes.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\obj\Debug\net7.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\obj\Debug\net7.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\obj\Debug\net7.0\Billetes.AssemblyInfo.cs
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\obj\Debug\net7.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\bin\Debug\net7.0\Billetes.deps.json
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\bin\Debug\net7.0\Billetes.dll
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\bin\Debug\net7.0\Billetes.pdb
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\obj\Debug\net7.0\Billetes.dll
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\obj\Debug\net7.0\refint\Billetes.dll
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\obj\Debug\net7.0\Billetes.pdb
+C:\Users\camil\source\repos\Ejercicios guia\Ejercicio23\Billetes\obj\Debug\net7.0\ref\Billetes.dll
