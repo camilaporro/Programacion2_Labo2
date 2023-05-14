@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanzarAtrapar", "LanzarAtrapar\LanzarAtrapar.csproj", "{DC4C96E2-668D-44F3-B556-E6D9FDEE05C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "..\Entidades\Entidades.csproj", "{24DF84F4-CD05-44E4-9494-126134131409}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4C96E2-668D-44F3-B556-E6D9FDEE05C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC4C96E2-668D-44F3-B556-E6D9FDEE05C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC4C96E2-668D-44F3-B556-E6D9FDEE05C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC4C96E2-668D-44F3-B556-E6D9FDEE05C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DF84F4-CD05-44E4-9494-126134131409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DF84F4-CD05-44E4-9494-126134131409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DF84F4-CD05-44E4-9494-126134131409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DF84F4-CD05-44E4-9494-126134131409}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F3CA3C9-5A46-4CDE-89B9-93D2A4926864}
+	EndGlobalSection
+EndGlobal
