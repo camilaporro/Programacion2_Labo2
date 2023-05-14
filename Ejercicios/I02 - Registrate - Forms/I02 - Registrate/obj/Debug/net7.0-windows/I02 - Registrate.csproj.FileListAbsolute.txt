@@ -1,0 +1,21 @@
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\bin\Debug\net7.0-windows\I02 - Registrate.exe
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\bin\Debug\net7.0-windows\I02 - Registrate.deps.json
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\bin\Debug\net7.0-windows\I02 - Registrate.runtimeconfig.json
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\bin\Debug\net7.0-windows\I02 - Registrate.dll
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\bin\Debug\net7.0-windows\I02 - Registrate.pdb
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02___Registrate.Form1.resources
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.csproj.GenerateResource.cache
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.AssemblyInfo.cs
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.dll
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\refint\I02 - Registrate.dll
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.pdb
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.genruntimeconfig.cache
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\ref\I02 - Registrate.dll
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02___Registrate.Form2.resources
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\bin\Debug\net7.0-windows\Biblioteca.dll
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\bin\Debug\net7.0-windows\Biblioteca.pdb
+C:\Users\camil\source\repos\Ejercicios guia\I02 - Registrate\I02 - Registrate\obj\Debug\net7.0-windows\I02 - Registrate.csproj.CopyComplete
