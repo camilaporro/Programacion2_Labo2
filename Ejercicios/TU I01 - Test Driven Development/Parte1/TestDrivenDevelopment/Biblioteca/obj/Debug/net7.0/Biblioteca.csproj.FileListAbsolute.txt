@@ -1,0 +1,12 @@
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\bin\Debug\net7.0\Biblioteca.deps.json
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\bin\Debug\net7.0\Biblioteca.dll
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\bin\Debug\net7.0\Biblioteca.pdb
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\obj\Debug\net7.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\obj\Debug\net7.0\Biblioteca.AssemblyInfo.cs
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\obj\Debug\net7.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\obj\Debug\net7.0\Biblioteca.dll
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\obj\Debug\net7.0\refint\Biblioteca.dll
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\obj\Debug\net7.0\Biblioteca.pdb
+C:\Users\camil\source\repos\Ejercicios guia\TU I01 - Test Driven Development\TestDrivenDevelopment\Biblioteca\obj\Debug\net7.0\ref\Biblioteca.dll
