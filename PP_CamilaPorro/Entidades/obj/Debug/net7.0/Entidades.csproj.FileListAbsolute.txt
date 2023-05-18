@@ -10,3 +10,15 @@ C:\Users\camil\source\repos\Ejercicios guia\PP_CamilaPorro\Entidades\obj\Debug\n
 C:\Users\camil\source\repos\Ejercicios guia\PP_CamilaPorro\Entidades\obj\Debug\net7.0\refint\Entidades.dll
 C:\Users\camil\source\repos\Ejercicios guia\PP_CamilaPorro\Entidades\obj\Debug\net7.0\Entidades.pdb
 C:\Users\camil\source\repos\Ejercicios guia\PP_CamilaPorro\Entidades\obj\Debug\net7.0\ref\Entidades.dll
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\bin\Debug\net7.0\Entidades.deps.json
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\bin\Debug\net7.0\Entidades.dll
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\bin\Debug\net7.0\Entidades.pdb
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\obj\Debug\net7.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\obj\Debug\net7.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\obj\Debug\net7.0\Entidades.AssemblyInfo.cs
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\obj\Debug\net7.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\obj\Debug\net7.0\Entidades.dll
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\obj\Debug\net7.0\refint\Entidades.dll
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\obj\Debug\net7.0\Entidades.pdb
+C:\Users\camil\Documents\Programacion2_Labo2\PP_CamilaPorro\Entidades\obj\Debug\net7.0\ref\Entidades.dll

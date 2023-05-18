@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\PP_CamilaPorro\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\PP_CamilaPorro\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\PP_CamilaPorro\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\PP_CamilaPorro\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\PP_CamilaPorro\\Test\\obj\\",
+      "outputPath": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\PP_CamilaPorro\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\PP_CamilaPorro\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\PP_CamilaPorro\\Entidades\\Entidades.csproj"
+            "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\PP_CamilaPorro\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\camil\\Documents\\Programacion2_Labo2\\PP_CamilaPorro\\Entidades\\Entidades.csproj"
             }
           }
         }
