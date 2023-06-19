@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
-      "Entidades/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v7.0",
-        "compile": {
-          "bin/placeholder/Entidades.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Entidades.dll": {}
-        }
-      }
-    }
+    "net7.0": {}
   },
-  "libraries": {
-    "Entidades/1.0.0": {
-      "type": "project",
-      "path": "../Entidades/Entidades.csproj",
-      "msbuildProject": "../Entidades/Entidades.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": [
-      "Entidades >= 1.0.0"
-    ]
+    "net7.0": []
   },
   "packageFolders": {
     "C:\\Users\\camil\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camil\\source\\repos\\Clases\\Clase18\\Consola\\Consola.csproj",
+      "projectUniqueName": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Plataforma CodeUTN\\Generics I01 - Torneo\\Consola\\Consola.csproj",
       "projectName": "Consola",
-      "projectPath": "C:\\Users\\camil\\source\\repos\\Clases\\Clase18\\Consola\\Consola.csproj",
+      "projectPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Plataforma CodeUTN\\Generics I01 - Torneo\\Consola\\Consola.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camil\\source\\repos\\Clases\\Clase18\\Consola\\obj\\",
+      "outputPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Plataforma CodeUTN\\Generics I01 - Torneo\\Consola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,11 +33,7 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {
-            "C:\\Users\\camil\\source\\repos\\Clases\\Clase18\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\camil\\source\\repos\\Clases\\Clase18\\Entidades\\Entidades.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

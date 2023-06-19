@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camil\\source\\repos\\Clases\\Clase18\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Plataforma CodeUTN\\Generics I01 - Torneo\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\camil\\source\\repos\\Clases\\Clase18\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Plataforma CodeUTN\\Generics I01 - Torneo\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\camil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camil\\source\\repos\\Clases\\Clase18\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\camil\\source\\repos\\Ejercicios guia\\Plataforma CodeUTN\\Generics I01 - Torneo\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camil\\AppData\\Roaming\\NuGet\\NuGet.Config",
